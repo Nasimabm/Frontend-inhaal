@@ -37,11 +37,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   Home pagina
-  <img src="images/home-page.png" width="375px" alt="Home pagina van joe and the juice.">
+  <img src="images/homepage" width="375px" alt="Home pagina van joe and the juice.">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   App pagina
-  <img src="images/app-page.png" width="375px" alt="App pagina van joe and the juice.">
+  <img src="images/apppage.png" width="375px" alt="App pagina van joe and the juice.">
  
 </details>
 
